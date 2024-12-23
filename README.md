@@ -57,7 +57,7 @@ Basta executar o algoritmo.
 Se preferir testar diretamente no LeetCode, basta copiar o código sem a main.
 
 ## Vídeo
-[COLOCAR VÍDEO AQUI](#)
+[APRESENTAÇÃO 3](https://www.youtube.com/watch?v=hsge1wvB9wo)
 
 
 
