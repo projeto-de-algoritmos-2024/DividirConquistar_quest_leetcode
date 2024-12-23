@@ -1,45 +1,50 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# DividirConquistar_quest_leetcode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 52<br>
+**Conteúdo da Disciplina**: D&C<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/1031265  |  Carlos Eduardo Rodrigues |
+| 22/1037993 |  Patrícia Helena Macedo da Silva |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Sobre
+Este repositório contém soluções para problemas de programação resolvidos no LeetCode. Foram selecionadas 2 questões de dificuldade "Hard" e 2 de dificuldade "Medium". Cada solução é acompanhada pelo código correspondente.
+
+Exercícios Abordados
+| Código do Problema | Nome do Problema | Dificuldade |
+| ------------------ | ---------------- | ----------- |
+| 218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/submissions/1486371503/) | Difícil |
+| 2343  |[2343. Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) | Médio |
+| XXX |[link](#) | Difícil |
+| XXX |[link](#)  | Médio |
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/submissions/1486371503/)
+![218-1](assets/218-1.png)
+![218-2](assets/218-2.png)
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+
+1. Navegue até a pasta do problema desejado. Ex: `cd  218`
+2. Rode o algoritmo com o comando:
+
+```
+python3 solucao.py
+```
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Basta executar o algoritmo.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Se preferir testar diretamente no LeetCode, basta copiar o código sem a main.
 
+## Vídeo
+[COLOCAR VÍDEO AQUI](#)
 
 
 
