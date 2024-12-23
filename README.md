@@ -16,7 +16,7 @@ Exercícios Abordados
 | Código do Problema | Nome do Problema | Dificuldade |
 | ------------------ | ---------------- | ----------- |
 | 218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/submissions/1486371503/) | Difícil |
-| 2343  |[2343. Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) | Médio |
+| 2343  |[Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) | Médio |
 | XXX |[link](#) | Difícil |
 | XXX |[link](#)  | Médio |
 
@@ -25,6 +25,10 @@ Exercícios Abordados
 ### [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/submissions/1486371503/)
 ![218-1](assets/218-1.png)
 ![218-2](assets/218-2.png)
+
+### [2343. Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)
+![2343-1](assets/2343-1.png)
+![2343-2](assets/2343-2.png)
 
 
 ## Instalação 
