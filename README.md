@@ -17,8 +17,8 @@ Exercícios Abordados
 | ------------------ | ---------------- | ----------- |
 | 218 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/submissions/1486371503/) | Difícil |
 | 2343  |[Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/) | Médio |
-| XXX |[link](#) | Difícil |
-| XXX |[link](#)  | Médio |
+| 719 |[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | Difícil |
+| 775 |[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/)  | Médio |
 
 ## Screenshots
 
@@ -29,6 +29,15 @@ Exercícios Abordados
 ### [2343. Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/)
 ![2343-1](assets/2343-1.png)
 ![2343-2](assets/2343-2.png)
+
+### [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
+![719-1](assets/719-1.png)
+![719-2](assets/719-2.png)
+
+### [775. Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/)
+![775-1](assets/775-1.png)
+![775-2](assets/775-2.png)
+
 
 
 ## Instalação 
